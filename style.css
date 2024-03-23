@@ -53,6 +53,9 @@ body {
     transition: 160ms;
 }
 .box1{
+    background: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 88% 10%;
     grid-area: box1;
     background-color: var(--Moderate-violet);
     /* grid-column: 1/3;
